@@ -20,9 +20,9 @@ public class CalculatorTest {
 	}
 	
 	@Test
-	public void testMul() {
+	public void testMul2() {
 		Calculator cal = new Calculator();
-		cal.mul(10,  20);
+		cal.mul2(10,  20);
 		assertEquals(200, cal.getResult());
 	}
 

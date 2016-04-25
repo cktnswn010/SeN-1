@@ -11,7 +11,7 @@ public class Calculator {
 		result = x-y;
 	}
 	
-	public void mul(int x, int y) {
+	public void mul2(int x, int y) {
 		result = x*y;
 	}
 	
